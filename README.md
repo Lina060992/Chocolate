@@ -9,4 +9,5 @@ Steps:
 3. Reading the raw data into Python
 
 
-![img](./images/chocolate.png)
+![Chocolate](chocolate.png)
+
