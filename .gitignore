@@ -3,7 +3,9 @@
 
 #Data
 datasets/
-
 *.csv
 *.numbers
+
+
 .env
+.DS_Store
