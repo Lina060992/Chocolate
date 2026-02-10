@@ -23,6 +23,8 @@ This project aims to explore key questions related to the cocoa and chocolate ma
 
 By examining these aspects, we aim to provide insights into the dynamics of chocolate consumption and the factors that influence it across different countries and contexts.
 
+Further questions to be examined include whether smaller countries (United Kingdom, New Zealand) are also affected by seasonality due to holidays.
+
 # Steps
 1. Defining the topic
 2. Finding a proper dataset
