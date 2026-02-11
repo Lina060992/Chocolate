@@ -36,11 +36,13 @@ Further questions to be examined include whether smaller countries (United Kingd
 1. nz_data_cleansing.ipynb: Process of data cleansing for New Zealand weather data
 2. uk_data_cleansing.ipynb: Process of data cleansing for United Kingdom weather data
 3. upload_to_database.ipynb: Upload process of weather data to the database with SQLAlchemy and PostgreSQL
+4. cocoa_prices_2022_2025.ipynb
+5. population_2022_2025.ipynb
 
 # Data credits and licenses
 1. UK weather data by [Open-Meteo.com](https://open-meteo.com/en/licence)
 2. NZ weather data by [NIWA](https://data.niwa.co.nz/pages/license/non-commercial)
 3. Public holidays in every country 2022 from [Kaggle](https://www.kaggle.com/datasets/prasertk/public-holidays-in-every-country-in-2022)
 4. Chocolate sales from [Kaggle](https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales/data)
-5. Cocoa prices
-6. 
+5. Cocoa prices [Kaggle](https://www.kaggle.com/datasets/achazngwouanzi/cocoa-daily-prices-from-1994-to-2025-icco)
+6. Population [Kaggle](https://www.kaggle.com/datasets/ashrafkhetran/world-population-and-forecasting)
