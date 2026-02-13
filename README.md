@@ -17,13 +17,13 @@ This project aims to explore key questions related to the cocoa and chocolate ma
 * Seasonality in consumption
     - We aim to explore whether chocolate consumption is influenced by seasonal factors. For this, we will analyse two sets of countries:
 
-        - United Kingdom and New Zealand: smaller territories where weather patterns may have an impact on consumption.
+        - United Kingdom (UK) and New Zealand (NZ): smaller territories where weather patterns may have an impact on consumption.
 
-        - USA, Canada, India, Australia: larger countries where national holidays, long periods of free time, and population size may affect consumption trends.
+        - USA (US), Canada (CA), India (IN), Australia (AU): larger countries where national holidays, long periods of free time, and population size may affect consumption trends.
 
 By examining these aspects, we aim to provide insights into the dynamics of chocolate consumption and the factors that influence it across different countries and contexts.
 
-Further questions to be examined include whether smaller countries (United Kingdom, New Zealand) are also affected by seasonality due to holidays.
+Further questions to be examined include whether smaller countries (UK, NZ) are also affected by seasonality due to holidays.
 
 # Steps
 1. Defining the topic
@@ -36,8 +36,9 @@ Further questions to be examined include whether smaller countries (United Kingd
 1. nz_data_cleansing.ipynb: Process of data cleansing for New Zealand weather data
 2. uk_data_cleansing.ipynb: Process of data cleansing for United Kingdom weather data
 3. upload_to_database.ipynb: Upload process of weather data to the database with SQLAlchemy and PostgreSQL
-4. cocoa_prices_2022_2025.ipynb
-5. population_2022_2025.ipynb
+4. cocoa_prices_2022_2025.ipynb: Exploratory data analysis (EDA) for the prices of cocoa
+5. population_2022_2025.ipynb: EDA for population changes during the years
+6. EDA_weather: EDA of the weather patterns in UK and NZ
 
 # Data credits and licenses
 1. UK weather data by [Open-Meteo.com](https://open-meteo.com/en/licence)
