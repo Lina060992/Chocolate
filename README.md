@@ -14,6 +14,7 @@ This project aims to explore key questions related to the cocoa and chocolate ma
 
 * Market size per capita
    - We will identify the top chocolate-consuming countries, both in absolute terms and relative to population size.
+   
 * Seasonality in consumption
     - We aim to explore whether chocolate consumption is influenced by seasonal factors. For this, we will analyse two sets of countries:
 
@@ -39,6 +40,7 @@ Further questions to be examined include whether smaller countries (UK, NZ) are 
 4. cocoa_prices_2022_2025.ipynb: Exploratory data analysis (EDA) for the prices of cocoa
 5. population_2022_2025.ipynb: EDA for population changes during the years
 6. EDA_weather: EDA of the weather patterns in UK and NZ
+7. questions_hypothesis.ipynb: Main questions analysis
 
 # Data credits and licenses
 1. UK weather data by [Open-Meteo.com](https://open-meteo.com/en/licence)
