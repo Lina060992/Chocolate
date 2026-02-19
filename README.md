@@ -20,11 +20,13 @@ This project aims to explore key questions related to the cocoa and chocolate ma
 
         - United Kingdom (UK) and New Zealand (NZ): smaller territories where weather patterns may have an impact on consumption.
 
-        - USA (US), Canada (CA), India (IN), Australia (AU): larger countries where national holidays, long periods of free time, and population size may affect consumption trends.
+        - USA (US), Canada (CA), India (IN), Australia (AU): the Big Four, larger countries where national holidays, long periods of free time, and population size may affect consumption trends.
 
 By examining these aspects, we aim to provide insights into the dynamics of chocolate consumption and the factors that influence it across different countries and contexts.
 
 Further questions to be examined include whether smaller countries (UK, NZ) are also affected by seasonality due to holidays.
+
+Moreover, we present the implementation of a country index called The Cocoa Factor (TCF) with units names as cocoa crystals.
 
 # Steps
 1. Defining the topic
@@ -40,7 +42,9 @@ Further questions to be examined include whether smaller countries (UK, NZ) are 
 4. cocoa_prices_2022_2025.ipynb: Exploratory data analysis (EDA) for the prices of cocoa
 5. population_2022_2025.ipynb: EDA for population changes during the years
 6. EDA_weather: EDA of the weather patterns in UK and NZ
-7. questions_hypothesis.ipynb: Main questions analysis
+7. EDA_holidays: EDA of the holidays list for the Big Four countries (US, CA, IN, AU)
+8. questions_hypothesis.ipynb: Main questions analysis
+9. more_questions.ipynb: Further questions and TCF/crystals
 
 # Data credits and licenses
 1. UK weather data by [Open-Meteo.com](https://open-meteo.com/en/licence)
