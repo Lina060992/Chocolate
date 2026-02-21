@@ -13,7 +13,7 @@ This project aims to explore key questions related to the cocoa and chocolate ma
     - We will examine price data to understand whether the cocoa market is experiencing significant cost pressures.
 
 * Market size per capita
-   - We will identify the top chocolate-consuming countries, both in absolute terms and relative to population size.
+    - We will identify the top chocolate-consuming countries, both in absolute terms and relative to population size.
    
 * Seasonality in consumption
     - We aim to explore whether chocolate consumption is influenced by seasonal factors. For this, we will analyse two sets of countries:
@@ -39,12 +39,12 @@ Moreover, we present the implementation of a country index called The Cocoa Fact
 1. nz_data_cleansing.ipynb: Process of data cleansing for New Zealand weather data
 2. uk_data_cleansing.ipynb: Process of data cleansing for United Kingdom weather data
 3. upload_to_database.ipynb: Upload process of weather data to the database with SQLAlchemy and PostgreSQL
-4. cocoa_prices_2022_2025.ipynb: Exploratory data analysis (EDA) for the prices of cocoa
+4. cocoa_prices_2022_2025.ipynb: Exploratory data a nalysis (EDA) for the prices of cocoa
 5. population_2022_2025.ipynb: EDA for population changes during the years
 6. EDA_weather: EDA of the weather patterns in UK and NZ
 7. EDA_holidays: EDA of the holidays list for the Big Four countries (US, CA, IN, AU)
 8. questions_hypothesis.ipynb: Main questions analysis
-9. more_questions.ipynb: Further questions and TCF/crystals
+9. more_questions.ipynb: Further questions and TCF index/crystals scale
 
 # Data credits and licenses
 1. UK weather data by [Open-Meteo.com](https://open-meteo.com/en/licence)
