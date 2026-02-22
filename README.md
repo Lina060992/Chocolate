@@ -53,3 +53,4 @@ Moreover, we present the implementation of a country index called The Cocoa Fact
 4. Chocolate sales from [Kaggle](https://www.kaggle.com/datasets/saidaminsaidaxmadov/chocolate-sales/data)
 5. Cocoa prices [Kaggle](https://www.kaggle.com/datasets/achazngwouanzi/cocoa-daily-prices-from-1994-to-2025-icco)
 6. Population [Kaggle](https://www.kaggle.com/datasets/ashrafkhetran/world-population-and-forecasting)
+7. Presentation design in [Canva](https://www.canva.com/templates/EAGymv3SueU/)
